@@ -1,0 +1,124 @@
+{
+    "aboutMe":"My name is Mahmud Isaacs and I am a student at Life Choices",
+    "projects":[
+        {
+            "name":"Calculator",
+            "github":"https://github.com/mahmud-isaacs/calculator",
+            "vercel":"https://calculator-mocha-tau-40.vercel.app/",
+            "description":"A simple calculator built with HTML, CSS and JavaScript",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/calculator.png"
+        },
+        {
+            "name":"BMI Calculator",
+            "github":"https://github.com/mahmud-isaacs/BMI_Calculator",
+            "vercel":"https://bmi-calculator-three-smoky.vercel.app/",
+            "description":"A simple BMI calculator built with HTML, CSS and JavaScript",
+            "image":"BMI_calculator.png"
+        },
+        {
+            "name":"Ecom Project",
+            "github":"https://github.com/mahmud-isaacs/eomp_project",
+            "vercel":"https://eomp-project.vercel.app/",
+            "description":"A Ecom point of sale system built with HTML,CSS,Bootstrap and JavaScript",
+            "image":"ecom_project.png"
+        },
+        {
+            "name":"First Portfolio",
+            "github":"https://github.com/mahmud-isaacs/portfolio",
+            "vercel":"https://portfolio-hvoovcsm6-mahmud-isaacs-projects.vercel.app/",
+            "description":"My first portfolio built with HTML,CSS,Bootstrap and JavaScript",
+            "image":"portfio.png"
+        },
+        {
+            "name":"Hulu Cloned",
+            "github":"https://github.com/mahmud-isaacs/clone_website",
+            "vercel":"https://clone-website-two.vercel.app/",
+            "description":"A cloned website built with HTML and CSS",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/cloneWebsite.png"
+        }
+    ],
+    "education":[
+        {
+            "description":"",
+            "year":"2nd April 2024 - present",
+            "placeOfInstitution":"",
+            "contact":[
+                {
+                    "name":"Matthew",
+                    "email":"",
+                    "contactDetails":""
+                }
+            ]
+
+        },
+        {
+            "description":"example 2",
+            "year":"enter year",
+            "placeOfInstitution":"",
+            "contact":[
+                {
+                    "name":"Matthew",
+                    "email":"",
+                    "contactDetails":""
+                }
+            ]
+
+        },
+        {
+            "description":"example 3",
+            "year":"enter year",
+            "placeOfInstitution":"",
+            "contact":[
+                {
+                    "name":"Matthew",
+                    "email":"",
+                    "contactDetails":""
+                }
+            ]
+
+        }
+    ],
+    "skills":[
+        {
+            "name":"HTML",
+            "level":"Mid",
+            "image":"url"
+        },
+        {
+            "name":"CSS",
+            "level":"mid",
+            "image":"url"
+        },
+        {
+            "name":"JavaScript",
+            "level":"mid",
+            "image":"url"
+        },
+        {
+            "name":"BootStrap",
+            "level":"mid",
+            "image":"url"
+        }
+    ],
+    "workExp":[
+        {
+            "placeOfWork":"",
+            "year":"",
+            "description":"",
+            "contact":[
+                {
+                    "name":"",
+                    "cell":"",
+                    "position":""
+                }
+            ]
+        }
+    ],
+    "testimonials":[
+        {
+            "name":"",
+            "position":"",
+            "message":""
+        }
+    ]
+}
