@@ -1,5 +1,5 @@
 {
-    "aboutMe":"My name is Mahmud Isaacs and I am a student at Life Choices",
+    "aboutMe":"As a 21 year old entrant into the world of full-stack development, I embody a dynamic fusion of creativity, technical acumen, and a passion for collaborative innovation. What got me into coding? I'm fascinated by the intricacies of creation and the journey from conception to execution, finding immense joy in crafting digital solutions that transcend boundaries. Despite my affinity for code, my background as an athlete has instilled in me the discipline and perseverance essential for success, even from behind a desk. A natural people person, I thrive in environments where like-minded individuals converge, fueling each other's growth and pushing boundaries. With an unwavering commitment to continuous learning and a nick for problem-solving, I am poised to make meaningful contributions in the ever-evolving landscape of technology. Let's embark on the the journey of continuous learning and discovery which shapes not only our creations; but ourselves too.",
     "projects":[
         {
             "name":"Calculator",
@@ -13,21 +13,21 @@
             "github":"https://github.com/mahmud-isaacs/BMI_Calculator",
             "vercel":"https://bmi-calculator-three-smoky.vercel.app/",
             "description":"A simple BMI calculator built with HTML, CSS and JavaScript",
-            "image":"BMI_calculator.png"
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/BMI%20calculator.png"
         },
         {
             "name":"Ecom Project",
             "github":"https://github.com/mahmud-isaacs/eomp_project",
             "vercel":"https://eomp-project.vercel.app/",
             "description":"A Ecom point of sale system built with HTML,CSS,Bootstrap and JavaScript",
-            "image":"ecom_project.png"
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/ECOM_project.png"
         },
         {
             "name":"First Portfolio",
             "github":"https://github.com/mahmud-isaacs/portfolio",
             "vercel":"https://portfolio-hvoovcsm6-mahmud-isaacs-projects.vercel.app/",
             "description":"My first portfolio built with HTML,CSS,Bootstrap and JavaScript",
-            "image":"portfio.png"
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/first_portfolio.png"
         },
         {
             "name":"Hulu Cloned",
@@ -35,90 +35,104 @@
             "vercel":"https://clone-website-two.vercel.app/",
             "description":"A cloned website built with HTML and CSS",
             "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/cloneWebsite.png"
+        },
+        {
+            "name":"Years to days convertor",
+            "github":"https://github.com/mahmud-isaacs/ageToDays",
+            "vercel":"https://age-to-days-taupe.vercel.app/",
+            "description":"A cloned website built with HTML,CSS and JavaScript",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/Years%20to%20day.png"
         }
     ],
     "education":[
         {
-            "description":"",
+            "placeOfInstitution":"Life Choices Academy",
+            "description":"I am currently a student at Life Choices Academy, and in the process of becoming a Full-stack Developer. Thus far; my skills include the adaptation to the workplace environment with the opportunity to learn multiple programming skills.",
             "year":"2nd April 2024 - present",
-            "placeOfInstitution":"",
-            "contact":[
-                {
-                    "name":"Matthew",
-                    "email":"",
-                    "contactDetails":""
-                }
-            ]
-
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/LifeChoices.jpg"
         },
         {
-            "description":"example 2",
-            "year":"enter year",
-            "placeOfInstitution":"",
-            "contact":[
-                {
-                    "name":"Matthew",
-                    "email":"",
-                    "contactDetails":""
-                }
-            ]
-
-        },
-        {
-            "description":"example 3",
-            "year":"enter year",
-            "placeOfInstitution":"",
-            "contact":[
-                {
-                    "name":"Matthew",
-                    "email":"",
-                    "contactDetails":""
-                }
-            ]
-
+            "placeOfInstitution":"South Peninsula High School",
+            "description":"I'm a 2021 Matriculant from South Peninsula High School. My subjects included: Mathematics, English, Afrikaans, Life Orientation, Life Science, History and Business Studies.",
+            "year":"2017 - 2021",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/SouthPenisula.jpg"
         }
     ],
     "skills":[
         {
             "name":"HTML",
-            "level":"Mid",
-            "image":"url"
+            "level":"Proficient in HTML, my skills are at an intermediate level. I'm adept at structuring web content effectively and implementing various HTML elements to create responsive and user-friendly interfaces",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/HTML.png"
         },
         {
             "name":"CSS",
-            "level":"mid",
-            "image":"url"
+            "level":"My CSS proficiency is at an intermediate level. I have a strong grasp of styling techniques, including selectors, properties, and layout models, allowing me to create visually appealing and responsive designs for web applications.",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/CSS.png"
         },
         {
             "name":"JavaScript",
-            "level":"mid",
-            "image":"url"
+            "level":"I'm currently at an intermediate level in JavaScript, having learned and practiced various concepts. I'm looking forward to deepening my understanding and continuing to apply my knowledge to create more dynamic and efficient web applications.",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/js.png"
         },
         {
             "name":"BootStrap",
-            "level":"mid",
-            "image":"url"
-        }
-    ],
-    "workExp":[
+            "level":"I'm now more experienced in Bootstrap and excited to continue exploring its capabilities. With my improved skills, I'm eager to integrate its features into my web development projects, leveraging its pre-built components and responsive design utilities to create dynamic and visually appealing websites.",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/BOOTSTRAP.jpg"
+        },
         {
-            "placeOfWork":"",
-            "year":"",
-            "description":"",
-            "contact":[
-                {
-                    "name":"",
-                    "cell":"",
-                    "position":""
-                }
-            ]
+            "name":"Vue JS",
+            "level":"I'm currently at a beginner's level with Vue, with a bit of understanding of its core concepts. I'm excited to deepen my knowledge and apply what I learn to build more interactive and responsive web applications.",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/vue.png"
         }
     ],
+    "softSkills":[
+        {
+            "name":"Communication",
+            "description":"I excel at effectively conveying ideas and information to others. I'm also a good listener, capable of understanding and responding to the needs of others. I have experience working in teams and collaborating with others to achieve common goals.",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/communication.jpg"
+        },
+        {
+            "name":"Problem Solving",
+            "description":"I am a natural problem solver, skilled at identifying issues, analyzing possible solutions, and implementing effective strategies to resolve them",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/problemSolve.png"
+        },
+        {
+            "name":"Time Management",
+            "description":"I am adept at managing my time effectively, prioritizing tasks, and meeting deadlines. I am also a quick learner, able to adapt to new situations and environments, and I am eager to continue developing my skills and knowledge across various fields",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/time%20mang.png"
+        }
+    ],
+
     "testimonials":[
         {
-            "name":"",
-            "position":"",
-            "message":""
+            "name":"Aneeq Bassadien",
+            "position":"Student",
+            "message":"Mahmud is a true inspiration — a friend whose dedication and positivity light up every room. His unwavering commitment to excellence and kindness make him someone you can always rely on. It's a privilege to know Mahmud, whose impact resonates far and wide",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/aneeq-removebg-preview.png"
+        },
+        {
+            "name":"Zubayr Abdullatief",
+            "position":"Student",
+            "message":"Mahmud is a talented young trailblazer who strive for excellence by embodying quality work of the highest caliber.His systemattic approach as a software developer is proven in his persistent annd diligent work ethic.",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/zubayr-removebg-preview.png"
+        },
+        {
+            "name":"Moegamad Taahir Du Toit",
+            "position":"Student",
+            "message":"Mahmud  is a amazing person to work with. He is very humble, he is self-motivated and unafraid. He gives valuable insights and thrives in a team. He has a unique sense of creativity and works hard without letting it be known.Hire this guy!!! ",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/taahir-removebg-preview.png"
+        },
+        {
+            "name":"Nazneen Abrahams",
+            "position":"Student",
+            "message":"Mahmud is a hardworking individual, who exceeds all expectations. Working with Mahmud is an absolute pleasure, he brings a positive atmosphere and motivates those around him.",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/naz-removebg-preview.png"
+        },
+        {
+            "name":"Matthew Brown",
+            "position":"Lecturer",
+            "message":"Mahmud's expertise shines through in his meticulous attention to detail and his knack for problem-solving. Mahmud's work ethic shines through his character. He works well in dynamic environments and his personality really allows complete tasks competitively. His dedication to quality and efficiency makes him a valuable asset to any team.",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/Matthew%20(1).png"
         }
     ]
 }
