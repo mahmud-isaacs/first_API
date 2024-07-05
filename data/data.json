@@ -93,12 +93,12 @@
         },
         {
             "name":"Problem Solving",
-            "description":"I am a natural problem solver, skilled at identifying issues, analyzing possible solutions, and implementing effective strategies to resolve them",
+            "description":"I am a natural problem solver, skilled at identifying issues, analyzing possible solutions, and implementing effective strategies to resolve them.",
             "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/problemSolve.png"
         },
         {
             "name":"Time Management",
-            "description":"I am adept at managing my time effectively, prioritizing tasks, and meeting deadlines. I am also a quick learner, able to adapt to new situations and environments, and I am eager to continue developing my skills and knowledge across various fields",
+            "description":"I am adept at managing my time effectively, prioritizing tasks, and meeting deadlines. I am also a quick learner, able to adapt to new situations and environments, and I am eager to continue developing my skills and knowledge across various fields.",
             "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/time%20mang.png"
         }
     ],
@@ -107,7 +107,7 @@
         {
             "name":"Aneeq Bassadien",
             "position":"Student",
-            "message":"Mahmud is a true inspiration — a friend whose dedication and positivity light up every room. His unwavering commitment to excellence and kindness make him someone you can always rely on. It's a privilege to know Mahmud, whose impact resonates far and wide",
+            "message":"Mahmud is a true inspiration — a friend whose dedication and positivity light up every room. His unwavering commitment to excellence and kindness make him someone you can always rely on. It's a privilege to know Mahmud, whose impact resonates far and wide.",
             "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/aneeq-removebg-preview.png"
         },
         {
@@ -127,6 +127,12 @@
             "position":"Student",
             "message":"Mahmud is a hardworking individual, who exceeds all expectations. Working with Mahmud is an absolute pleasure, he brings a positive atmosphere and motivates those around him.",
             "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/naz-removebg-preview.png"
+        },
+        {
+            "name":"Gwiba Mabandla",
+            "position":"Student",
+            "message":"Mahmud is a well coordinated individual that is hardworking and very fond of helping his colleagues whenever they need help. He has amazing problem solving skills and any company would be lucky to have him in their workforce.",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/gwiba-removebg-preview.png"
         },
         {
             "name":"Matthew Brown",
