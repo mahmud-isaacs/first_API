@@ -2,6 +2,27 @@
     "aboutMe":"As a 21 year old entrant into the world of full-stack development, I embody a dynamic fusion of creativity, technical acumen, and a passion for collaborative innovation. What got me into coding? I'm fascinated by the intricacies of creation and the journey from conception to execution, finding immense joy in crafting digital solutions that transcend boundaries. Despite my affinity for code, my background as an athlete has instilled in me the discipline and perseverance essential for success, even from behind a desk. A natural people person, I thrive in environments where like-minded individuals converge, fueling each other's growth and pushing boundaries. With an unwavering commitment to continuous learning and a nick for problem-solving, I am poised to make meaningful contributions in the ever-evolving landscape of technology. Let's embark on the the journey of continuous learning and discovery which shapes not only our creations; but ourselves too.",
     "projects":[
         {
+            "name":"Huis Course",
+            "github":"https://github.com/mahmud-isaacs/capstone_project",
+            "vercel":"https://capstone-project-34e36.web.app/",
+            "description":"My capstone final project. Using JavaScript, Bootstrap, HTML, CSS, Node JS and MySql ",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/HuisCouse.png"
+        },
+        {
+            "name":"Pretty Simple Printz",
+            "github":"https://github.com/NickiSamantha/nodeJsEomp",
+            "vercel":"https://nodeeomp-5d5da.web.app/",
+            "description":"A full-stack partner project. My role was backend. I used Node JS and MySql.",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/Node.png"
+        },
+        {
+            "name":"Retro Kitz",
+            "github":"https://github.com/mahmud-isaacs/eomp_project",
+            "vercel":"https://eomp-project.vercel.app/",
+            "description":"A point of sale system built with HTML,CSS,Bootstrap and JavaScript",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/ECOM_project.png"
+        },
+        {
             "name":"Calculator",
             "github":"https://github.com/mahmud-isaacs/calculator",
             "vercel":"https://calculator-mocha-tau-40.vercel.app/",
@@ -16,25 +37,11 @@
             "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/BMI%20calculator.png"
         },
         {
-            "name":"Retro Kitz",
-            "github":"https://github.com/mahmud-isaacs/eomp_project",
-            "vercel":"https://eomp-project.vercel.app/",
-            "description":"A point of sale system built with HTML,CSS,Bootstrap and JavaScript",
-            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/ECOM_project.png"
-        },
-        {
             "name":"First Portfolio",
             "github":"https://github.com/mahmud-isaacs/portfolio",
             "vercel":"https://portfolio-hvoovcsm6-mahmud-isaacs-projects.vercel.app/",
             "description":"My first portfolio built with HTML,CSS,Bootstrap and JavaScript",
             "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/first_portfolio.png"
-        },
-        {
-            "name":"Hulu Cloned",
-            "github":"https://github.com/mahmud-isaacs/clone_website",
-            "vercel":"https://clone-website-two.vercel.app/",
-            "description":"A cloned website built with HTML and CSS",
-            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/cloneWebsite.png"
         },
         {
             "name":"Years to days convertor",
@@ -81,8 +88,18 @@
         },
         {
             "name":"Vue JS",
-            "level":"I'm currently at a beginner's level with Vue, with a bit of understanding of its core concepts. I'm excited to deepen my knowledge and apply what I learn to build more interactive and responsive web applications.",
+            "level":"I'm currently at a intermediate level with Vue, with understanding of its core concepts. I'm excited to deepen my knowledge and apply what I learn to build more interactive and responsive web applications.",
             "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/vue.png"
+        },
+        {
+            "name":"Node JS",
+            "level":"I'm currently at a beginner's level with Node.js, with a bit of understanding of its key concepts. I'm eager to enhance my skills and apply them to build efficient server-side applications, focusing on backend development to create scalable and dynamic solution",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/nodeLogo.png"
+        },
+        {
+            "name":"MySql",
+            "level":"I'm currently at a beginner's level with MySQL, with a bit of understanding of its fundamental concepts. I'm excited to further explore its capabilities and apply what I learn to manage and structure data efficiently for web applications.",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/mySqlLogo.png "
         }
     ],
     "softSkills":[
