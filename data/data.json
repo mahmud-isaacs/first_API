@@ -5,7 +5,7 @@
             "name":"Huis Course",
             "github":"https://github.com/mahmud-isaacs/capstone_project",
             "vercel":"https://capstone-project-34e36.web.app/",
-            "description":"My capstone final project. Using JavaScript, Bootstrap, HTML, CSS, Node JS and MySql ",
+            "description":"My capstone final project. Using JavaScript, Bootstrap, HTML, CSS, Node JS and MySql.",
             "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/HuisCouse.png"
         },
         {
@@ -19,35 +19,35 @@
             "name":"Retro Kitz",
             "github":"https://github.com/mahmud-isaacs/eomp_project",
             "vercel":"https://eomp-project.vercel.app/",
-            "description":"A point of sale system built with HTML,CSS,Bootstrap and JavaScript",
+            "description":"A point of sale system built with HTML,CSS,Bootstrap and JavaScript.",
             "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/ECOM_project.png"
         },
         {
             "name":"Calculator",
             "github":"https://github.com/mahmud-isaacs/calculator",
             "vercel":"https://calculator-mocha-tau-40.vercel.app/",
-            "description":"A simple calculator built with HTML, CSS and JavaScript",
+            "description":"A simple calculator built with HTML, CSS and JavaScript.",
             "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/calculator.png"
         },
         {
             "name":"BMI Calculator",
             "github":"https://github.com/mahmud-isaacs/BMI_Calculator",
             "vercel":"https://bmi-calculator-three-smoky.vercel.app/",
-            "description":"A simple BMI calculator built with HTML, CSS and JavaScript",
+            "description":"A simple BMI calculator built with HTML, CSS and JavaScript.",
             "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/BMI%20calculator.png"
         },
         {
             "name":"First Portfolio",
             "github":"https://github.com/mahmud-isaacs/portfolio",
             "vercel":"https://portfolio-hvoovcsm6-mahmud-isaacs-projects.vercel.app/",
-            "description":"My first portfolio built with HTML,CSS,Bootstrap and JavaScript",
+            "description":"My first portfolio built with HTML,CSS,Bootstrap and JavaScript.",
             "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/first_portfolio.png"
         },
         {
             "name":"Years to days convertor",
             "github":"https://github.com/mahmud-isaacs/ageToDays",
             "vercel":"https://age-to-days-taupe.vercel.app/",
-            "description":"A cloned website built with HTML,CSS and JavaScript",
+            "description":"A simple calculator that converts your age to days. Built with HTML,CSS and JavaScript.",
             "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/Years%20to%20day.png"
         }
     ],
@@ -68,7 +68,7 @@
     "skills":[
         {
             "name":"HTML",
-            "level":"Proficient in HTML, my skills are at an intermediate level. I'm adept at structuring web content effectively and implementing various HTML elements to create responsive and user-friendly interfaces",
+            "level":"Proficient in HTML, my skills are at an intermediate level. I'm adept at structuring web content effectively and implementing various HTML elements to create responsive and user-friendly interfaces.",
             "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/HTML.png"
         },
         {
@@ -93,7 +93,7 @@
         },
         {
             "name":"Node JS",
-            "level":"I'm currently at a beginner's level with Node.js, with a bit of understanding of its key concepts. I'm eager to enhance my skills and apply them to build efficient server-side applications, focusing on backend development to create scalable and dynamic solution",
+            "level":"I'm currently at a beginner's level with Node.js, with a bit of understanding of its key concepts. I'm eager to enhance my skills and apply them to build efficient server-side applications, focusing on backend development to create scalable and dynamic solution.",
             "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/nodeLogo.png"
         },
         {
