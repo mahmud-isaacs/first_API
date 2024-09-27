@@ -53,9 +53,15 @@
     ],
     "education":[
         {
+            "placeOfInstitution":"Life Choices Studio",
+            "description":"I'm currently interning at Life Choices Studio as I pursue my goal of becoming a Full-Stack Developer. Throughout this experience, I've gained valuable workplace experience while actively upskilling and enhancing my programming abilities.",
+            "year":"25nd September 2024 - present",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/studio.jpg"
+        },
+        {
             "placeOfInstitution":"Life Choices Academy",
-            "description":"I am currently a student at Life Choices Academy, and in the process of becoming a Full-stack Developer. Thus far; my skills include the adaptation to the workplace environment with the opportunity to learn multiple programming skills.",
-            "year":"2nd April 2024 - present",
+            "description":"I successfully completed a Full-stack Web Development course at Life Choices Academy. Throughout the program, I adapted to various workplace environments while mastering multiple programming skills. This experience equipped me with a strong foundation in both front-end and back-end technologies, preparing me to tackle real-world development challenges.",
+            "year":"2nd April 2024 - 20th September 2024",
             "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/LifeChoices.jpg"
         },
         {
