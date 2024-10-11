@@ -53,12 +53,6 @@
     ],
     "education":[
         {
-            "placeOfInstitution":"Life Choices Studio",
-            "description":"I'm currently interning at Life Choices Studio as I pursue my goal of becoming a Full-Stack Developer. Throughout this experience, I've gained valuable workplace experience while actively upskilling and enhancing my programming abilities.",
-            "year":"25th September 2024 - present",
-            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/studio.jpg"
-        },
-        {
             "placeOfInstitution":"Life Choices Academy",
             "description":"I successfully completed a Full-stack Web Development course at Life Choices Academy. Throughout the program, I adapted to various workplace environments while mastering multiple programming skills. This experience equipped me with a strong foundation in both front-end and back-end technologies, preparing me to tackle real-world development challenges.",
             "year":"2nd April 2024 - 20th September 2024",
@@ -126,42 +120,12 @@
         }
     ],
 
-    "testimonials":[
+    "Experience":[
         {
-            "name":"Aneeq Bassadien",
-            "position":"Student",
-            "message":"Mahmud is a true inspiration — a friend whose dedication and positivity light up every room. His unwavering commitment to excellence and kindness make him someone you can always rely on. It's a privilege to know Mahmud, whose impact resonates far and wide.",
-            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/aneeq-removebg-preview.png"
-        },
-        {
-            "name":"Zubayr Abdullatief",
-            "position":"Student",
-            "message":"Mahmud is a talented young trailblazer who strive for excellence by embodying quality work of the highest caliber.His systematic approach as a software developer is proven in his persistent and diligent work ethic.",
-            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/zubayr-removebg-preview.png"
-        },
-        {
-            "name":"Moegamad Taahir Du Toit",
-            "position":"Student",
-            "message":"Mahmud  is a amazing person to work with. He is very humble, he is self-motivated and unafraid. He gives valuable insights and thrives in a team. He has a unique sense of creativity and works hard without letting it be known.Hire this guy!!! ",
-            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/taahir-removebg-preview.png"
-        },
-        {
-            "name":"Nazneen Abrahams",
-            "position":"Student",
-            "message":"Mahmud is a hardworking individual, who exceeds all expectations. Working with Mahmud is an absolute pleasure, he brings a positive atmosphere and motivates those around him.",
-            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/naz-removebg-preview.png"
-        },
-        {
-            "name":"Gwiba Mabandla",
-            "position":"Student",
-            "message":"Mahmud is a well coordinated individual that is hardworking and very fond of helping his colleagues whenever they need help. He has amazing problem solving skills and any company would be lucky to have him in their workforce.",
-            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/gwiba-removebg-preview.png"
-        },
-        {
-            "name":"Matthew Brown",
-            "position":"Lecturer",
-            "message":"Mahmud's expertise shines through in his meticulous attention to detail and his knack for problem-solving. Mahmud's work ethic shines through his character. He works well in dynamic environments and his personality really allows complete tasks competitively. His dedication to quality and efficiency makes him a valuable asset to any team.",
-            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/Matthew%20(1).png"
+            "placeOfInstitution":"Life Choices Studio",
+            "description":"I'm currently interning at Life Choices Studio as I pursue my goal of becoming a Full-Stack Developer. Throughout this experience, I've gained valuable workplace experience while actively upskilling and enhancing my programming abilities.",
+            "year":"25th September 2024 - present",
+            "image":"https://mahmud-isaacs.github.io/portfolio_hostedImages/images/studio.jpg"
         }
     ]
 }
